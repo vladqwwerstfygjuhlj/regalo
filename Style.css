@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Dancing Script', cursive;
+    background: linear-gradient(to bottom, #ffe6f0 0%, #fce4ec 50%, #e6f7ff 100%);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #c0392b;
+    line-height: 1.8;
+  }
+  
+  .content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 100px 30px 100px 30px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+    margin-bottom: 100px;
+  }
+  
+  h1 {
+    font-size: 42px;
+    margin-bottom: 40px;
+  }
+  
+  p {
+    font-size: 22px;
+    margin-bottom: 30px;
+    white-space: pre-line;
+  }
+  
+  
+  
